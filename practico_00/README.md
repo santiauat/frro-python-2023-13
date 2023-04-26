@@ -10,8 +10,8 @@ El trabajo práctico consta de actividades grupales e individuales. Las activida
 
 Cada grupo deberá asignar los siguientes roles a sus integrantes, los roles no pueden repetirse ni cambiarse luego de establecerse y cada integrante deberá tener un único rol:
 
-1. Integrante `Rojo`
-1. Integrante `Amarillo`
+1. Integrante `Rojo` [Santiago Auat]
+1. Integrante `Amarillo` [Francisco Bruno]
 
 A partir de este momento las actividades grupales estarán enunciadas en función de los roles propuestos. Las actividades individuales deberán ser realizadas por cada integrante. Se llamará a cada integrante por el color de su rol.
 
